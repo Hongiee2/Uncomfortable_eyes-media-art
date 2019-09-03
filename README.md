@@ -9,11 +9,3 @@
 ## Demo
 
 ![Demo](./Demo.gif)
-
-## 전시공간 설계도
-<div>
-<p align="center">
-<img width="350" src=./전시공간.png>
-<img width="350" src=./전시공간상단.png>
-</p>
-</div>
