@@ -1,12 +1,15 @@
 # Uncomfortable_eyes-media-art
+
+
 - 2018-2 "창의학기제"
-- 개발기간 : 18년 10월 1일 ~ 18년 11월 20일
-- processing, Kinect V2, projector
+- 개발기간 : 18년 10월 1일 ~ 18년 12월 5일 
+- 역할 : Depth 카메라를 이용하여 관객이 특정거리에 있을때만 좌표 정보 전송, Headtracking을 통해 실시간으로 관람객의 위치를 추적하고 OSC 통신을 통해 main script에 좌표 정보 전송 
 
-My Role
-- **조성동(p5.js, RPI, Server)**, 김형호(p5.js), 유승훈(문서자료 및 리소스), 최환(Kinect, RPI, 3D printing)
-- [함께 사용되는 라즈베리파이 프로젝트](https://github.com/sdong001/rpi-weather-media-art)
+---
 
+# Demo
+
+- 영상
 
 ## 목차
 - [Demo](#Demo)
@@ -39,11 +42,3 @@ My Role
 
 * 토토로 캐릭터와 p5.js를 활용한 날씨 정보의 시각적 효과
 * 키넥트를 통한 모션 인식, 라즈베리파이/센서를 활용한 사용자와 상호작용
-
----
-
-## 설계
-
-![architecture](./190616_architecture.jpg)
-
----
