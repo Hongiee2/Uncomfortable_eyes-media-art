@@ -1,7 +1,7 @@
 ## Uncomfortable_eyes-media-art
 - 2018-2 "창의학기제"
 - 개발기간 : 18년 10월 1일 ~ 18년 12월 5일 
-- 역할 : Headtracking을 통해 관람객의 위치를 추적하고 OSC 통신으로 main script에 좌표 정보 전송 
+- 역할 : Headtracking을 통해 관람객의 위치를 추적, OSC 통신으로 main script에 좌표 정보 전송 
 - 성과 : HCI KOREA 2019, Creative Award 출품 
 
 ## Demo
